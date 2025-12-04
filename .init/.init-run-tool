@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/vizai-insights-dashboard-40603-40640/vizai_dashboard_frontend"
+}
